@@ -4,7 +4,7 @@
   uses: cloudposse/github-action-interface-environment@0.4.0
   with:
     # Repository with Environment action implementation
-    implementation_repository: concurrency: 
+    implementation_repository: jtack6769
     # Repository path with Environment action implementation
     implementation_path: # default is main
     # Repository filename with Environment action implementation
